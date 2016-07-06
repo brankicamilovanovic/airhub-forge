@@ -1,0 +1,22 @@
+{
+  "name": "airhub-forge",
+  "version": "1.0.0",
+  "description": "airhub view and data lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diablofong/airhub-forge.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diablofong/airhub-forge/issues"
+  },
+  "homepage": "https://github.com/diablofong/airhub-forge#readme",
+  "dependencies": {
+    "view-and-data": "^1.0.7"
+  }
+}
